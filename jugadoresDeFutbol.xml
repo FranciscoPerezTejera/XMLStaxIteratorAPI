@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<jugadores>
+<!--XML de jugadores-->
+	<numero dorsal="7">
+		<nombre>Cristiano Ronaldo</nombre>
+		<posicion>Delantero centro</posicion>
+		<salario cantidad="?">30000000</salario>
+		<telefono>678456321</telefono>
+	</numero>
+	<numero dorsal="10">
+		<nombre>Lionel Messi</nombre>
+		<posicion>Media Punta</posicion>
+		<salario cantidad="?">25000000</salario>
+		<telefono>777444333</telefono>
+	</numero>
+</jugadores>
